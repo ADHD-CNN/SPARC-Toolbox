@@ -10,3 +10,8 @@ Trained on ADHD-200 (N = 526), the model was independently evaluated on ePOD-MPH
 **Associated manuscript:**
 
 Monteiro S, van den Berg J, Vansina E, Reneman L, Caan MWA, Schrantee A. (2026). *An Adaptive Multifeature Resting-State fMRI CNN for ADHD: Methylphenidate Modulation of Multiscale Intrinsic Brain Dynamics*. Manuscript in preparation.
+
+
+Also seen at:
+
+**Conference presentation:** Monteiro S, van den Berg J, Vansina E, Reneman L, Caan MWA, Schrantee A. *Acute Methylphenidate-Related Brain Shifts in ADHD Classified by a Multibranch-CNN*. CLARA Symposium on AI for Brain Health, Paris, France, 13 November 2026. Poster presentation and 5-minute research pitch.
